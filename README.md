@@ -31,6 +31,7 @@
     * Hasil dari sistem prediksi gempa akan dievaluasi secara berkala, dan sistem akan ditingkatkan berdasarkan umpan balik dari hasil evaluasi. Peningkatan dapat melibatkan penambahan fitur baru, pengoptimalan model, atau penyesuaian parameter.
 
 <br>
+
 ### PERSOALAN PRAKTIS
 <br>
 Dalam pengembangan "Sistem Prediksi Gempa Berbasis Deep Learning," beberapa persoalan praktis yang perlu diselesaikan melalui penelitian adalah sebagai berikut:
