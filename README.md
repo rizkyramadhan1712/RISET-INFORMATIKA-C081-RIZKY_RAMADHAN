@@ -50,7 +50,7 @@ Dengan mengatasi persoalan-persoalan praktis ini, penelitian pada "Sistem Predik
 
 ### RESEARCH QUESTIONS
 
-Berikut beberapa research questions yang dapat diidentifikasi: <br>
+Berikut beberapa research questions yang dapat diidentifikasi : <br>
 
   1. Sejauh mana metode deep learning dapat meningkatkan ketepatan prediksi gempa?
   2. Bagaimana sistem dapat menangani variasi geologi yang kompleks untuk meningkatkan keandalan prediksi?
@@ -62,6 +62,28 @@ Berikut beberapa research questions yang dapat diidentifikasi: <br>
   8. Apa langkah-langkah yang dapat diambil untuk memastikan sistem berfungsi secara optimal dalam jangka waktu yang panjang?
   9.  Bagaimana informasi prediksi gempa seharusnya disampaikan kepada masyarakat?
   10.  Apa dampak sosial yang diharapkan dari penggunaan sistem ini, dan bagaimana mengelola dampak tersebut?
-     
+
+<br>
+
+### TEORI KETERKAITAN
+
+   1. *Teori Deep Learning*
+      * Teori ini mencakup prinsip-prinsip dasar dari jaringan saraf tiruan dan konsep deep learning. Dalam konteks prediksi gempa, pemahaman mendalam tentang arsitektur neural networks dan teknik-teknik deep learning seperti convolutional neural networks (CNN) dapat membantu dalam merancang model prediksi yang efektif.
+   2.  *Teori Seismologi dan Geofisika*
+       * Teori ini membahas konsep-konsep seismologi dan geofisika yang relevan untuk pemahaman pola-pola seismik. Pengetahuan ini sangat penting dalam menentukan fitur-fitur yang dapat diambil dari data seismik dan dalam merancang model prediksi gempa.
+   3.  *Teori Pengolahan Citra Digital*
+       * Dalam konteks prediksi gempa, pengolahan citra dapat diterapkan pada data seismik untuk mengidentifikasi pola dan fitur-fitur penting. Konsep-konsep seperti segmentasi citra, ekstraksi fitur, dan pengolahan citra digital lainnya dapat memberikan landasan untuk analisis data seismik.
+   4.  *Teori Sistem Peringatan Dini*
+       * Teori ini melibatkan konsep perancangan dan implementasi sistem peringatan dini. Integrasi sistem prediksi gempa dengan sistem peringatan dini memerlukan pemahaman tentang prinsip-prinsip sistem peringatan dini, termasuk pengiriman peringatan dan respons yang cepat.
+   5.  *Teori Keamanan Informasi*
+       * Penggunaan sistem prediksi gempa membutuhkan pertimbangan keamanan informasi, terutama ketika menangani data seismik yang dapat menjadi sensitif. Teori keamanan informasi dapat membantu dalam merancang sistem yang aman dan melindungi data dari ancaman keamanan.
+   6.  *Teori Analisis Dampak Sosial dan Etika Teknologi*
+       * Teori ini membahas dampak sosial dari penggunaan teknologi, termasuk peringatan dini terkait gempa. Pemahaman dampak sosial dan etika teknologi sangat penting dalam merancang sistem yang dapat diterima dan mengurangi risiko dampak negatif.
+   7.  *Teori Sistem Evaluasi Kinerja*
+       * Evaluasi kinerja sistem prediksi gempa diperlukan untuk memastikan keandalan dan keefektifan prediksi. Teori evaluasi kinerja sistem dapat membantu merancang eksperimen dan mengukur kinerja model prediksi.
+   8.  *Teori Pengelolaan Big Data*
+       * Pengolahan dan manajemen data seismik yang besar memerlukan konsep-konsep pengelolaan big data. Teori ini dapat membantu dalam merancang solusi efisien untuk menangani volume data yang besar dan kompleks.
+
+Mengintegrasikan teori-teori ini dalam Tinjauan Kepustakaan akan memberikan dasar yang kokoh untuk merancang, mengembangkan, dan mengevaluasi sistem prediksi gempa berbasis deep learning dalam konteks informatika.
 
 
