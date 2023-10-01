@@ -4,3 +4,8 @@
  NPM   : 20081010043 <br>
  KELAS : RISET INFORMATIKA C081 <br>
  
+## TOPIK PENELITIAN 
+
+Sistem Prediksi Gempa Berbasis Deep Learning 
+
+## PERSOALAN PRAKTIS
