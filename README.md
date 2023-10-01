@@ -34,8 +34,7 @@
 
 ### PERSOALAN PRAKTIS
 <br>
-Dalam pengembangan "Sistem Prediksi Gempa Berbasis Deep Learning," beberapa persoalan praktis yang perlu diselesaikan melalui penelitian adalah sebagai berikut:
-
+Dalam pengembangan "Sistem Prediksi Gempa Berbasis Deep Learning," beberapa persoalan praktis yang perlu diselesaikan melalui penelitian adalah sebagai berikut: <br>
 
    Pertama, aspek ketepatan dan keandalan prediksi gempa merupakan aspek utama yang memerlukan perhatian dalam penelitian ini. Sistem prediksi gempa harus mampu memberikan hasil prediksi yang akurat dan dapat diandalkan. Ini melibatkan penanganan data seismik yang kompleks, variasi geologi yang signifikan, dan faktor-faktor lain yang dapat memengaruhi ketepatan prediksi. Selain itu, perlu dipertimbangkan bagaimana sistem ini dapat berkinerja dengan baik dalam situasi yang berbeda, seperti di wilayah yang memiliki sejarah gempa yang berbeda-beda.
 
