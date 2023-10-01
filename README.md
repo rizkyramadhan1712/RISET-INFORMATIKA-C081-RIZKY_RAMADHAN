@@ -30,6 +30,17 @@
 9. *Evaluasi dan Peningkatan Sistem*
     * Hasil dari sistem prediksi gempa akan dievaluasi secara berkala, dan sistem akan ditingkatkan berdasarkan umpan balik dari hasil evaluasi. Peningkatan dapat melibatkan penambahan fitur baru, pengoptimalan model, atau penyesuaian parameter.
 
-
+<br>
 ### PERSOALAN PRAKTIS
+Dalam pengembangan "Sistem Prediksi Gempa Berbasis Deep Learning," beberapa persoalan praktis yang perlu diselesaikan melalui penelitian adalah sebagai berikut:
+
+Pertama-tama, ketepatan dan keandalan prediksi gempa merupakan aspek utama yang memerlukan perhatian dalam penelitian ini. Sistem prediksi gempa harus mampu memberikan hasil prediksi yang akurat dan dapat diandalkan. Ini melibatkan penanganan data seismik yang kompleks, variasi geologi yang signifikan, dan faktor-faktor lain yang dapat memengaruhi ketepatan prediksi. Selain itu, perlu dipertimbangkan bagaimana sistem ini dapat berkinerja dengan baik dalam situasi yang berbeda, seperti di wilayah yang memiliki sejarah gempa yang berbeda-beda.
+
+Kedua, respons waktu dari sistem prediksi juga merupakan aspek penting. Sistem ini harus dapat memberikan peringatan dini dengan waktu yang cukup untuk memungkinkan evakuasi dan mitigasi risiko yang efektif. Oleh karena itu, perlu dicari metode pengolahan data dan algoritma deep learning yang dapat mengoptimalkan waktu respons sistem tanpa mengorbankan akurasi prediksi.
+
+Selanjutnya, integrasi sistem prediksi gempa dengan sistem peringatan dini dan infrastruktur terkait lainnya menjadi tantangan tersendiri. Sistem ini harus dapat berkomunikasi dengan sistem peringatan dan infrastruktur keamanan untuk memberikan respons yang terkoordinasi dan menyeluruh dalam menghadapi gempa bumi. Selain itu, aspek keamanan dan keberlanjutan sistem juga perlu diperhatikan untuk memastikan bahwa sistem ini dapat berfungsi dalam jangka waktu yang panjang.
+
+Terakhir, aspek etika dan sosial juga menjadi pertimbangan penting. Perlu ada pemahaman dan pengelolaan yang baik terkait dengan dampak sosial dan etika dari penggunaan sistem prediksi gempa ini. Ini melibatkan pertimbangan tentang bagaimana informasi prediksi gempa disampaikan kepada masyarakat, bagaimana masyarakat diberdayakan untuk menghadapi potensi bahaya, dan bagaimana mengelola kekhawatiran terkait privasi dan keamanan data dalam pengolahan informasi gempa.
+
+Dengan mengatasi persoalan-persoalan praktis ini, penelitian pada "Sistem Prediksi Gempa Berbasis Deep Learning" dapat memberikan kontribusi yang signifikan dalam meningkatkan kemampuan manusia untuk mengantisipasi dan merespons gempa bumi dengan lebih baik
 
