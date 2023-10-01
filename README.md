@@ -11,7 +11,7 @@
 
 <br> Adapun uraian pendekatan yang digunakan dalam penelitian "Sistem Prediksi Gempa Berbasis Deep Learning" adalah sebagai berikut : <br>
 1. Pengumpulan Data Seismik
-   Proses ini melibatkan pengumpulan data seismik dari berbagai sumber seperti stasiun seismik, sensor, dan perekaman gempa historis. Data ini mencakup parameter
+  + Proses ini melibatkan pengumpulan data seismik dari berbagai sumber seperti stasiun seismik, sensor, dan perekaman gempa historis. Data ini mencakup parameter
    seismik seperti amplitudo, frekuensi, dan waktu.
 3. dad
 4. 
