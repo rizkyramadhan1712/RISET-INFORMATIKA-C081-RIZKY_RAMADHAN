@@ -84,6 +84,6 @@ Berikut beberapa research questions yang dapat diidentifikasi : <br>
    8.  *Teori Pengelolaan Big Data*
        * Pengolahan dan manajemen data seismik yang besar memerlukan konsep-konsep pengelolaan big data. Teori ini dapat membantu dalam merancang solusi efisien untuk menangani volume data yang besar dan kompleks.
 
-Mengintegrasikan teori-teori ini dalam Tinjauan Kepustakaan akan memberikan dasar yang kokoh untuk merancang, mengembangkan, dan mengevaluasi sistem prediksi gempa berbasis deep learning dalam konteks informatika.
+Mengintegrasikan teori-teori ini dalam Tinjauan Kepustakaan akan memberikan dasar yang kokoh untuk merancang, mengembangkan, dan mengevaluasi sistem prediksi gempa berbasis deep learning dalam konteks teknologi.
 
 
