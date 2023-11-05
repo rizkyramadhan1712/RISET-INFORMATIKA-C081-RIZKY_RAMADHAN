@@ -17,7 +17,7 @@
 - [SMART LAMP ALARM PENDETEKSI GEMPA BUMI DENGAN ACCELEROMETER BERBASIS IOT](https://repository.uinjkt.ac.id/dspace/bitstream/123456789/65046/1/AVIATI%20YUNIAR-FST.pdf)
 - [PENGEMBANGAN ALARM GEMPA BUMI SEBAGAI MEDIA PEMBELAJARAN FISIKA SMA KELAS XII MATERI LISTRIK DINAMIS](http://repository.radenintan.ac.id/5721/1/skripsi.pdf)
 
-### Perbedaan Metodologi dan Metode
+### PERBEDAAN METODOLOGI DAN METODE
 
 1. Metodologi
 - Pengertian : Kerangka kerja yang digunakan dalam suatu penelitian, berfokus pada pertanyaan seperti bagaimana penelitian tersebut dilakukan, apa tujuan penelitian tersebut, dan bagaimana data tersebut akan dianalisis. Metodologi akan membantu peneliti untuk memilih pendekatan umum yang sesuai dengan tujuan penelitian dan jenis data yang akan dikumpulkan.
@@ -28,3 +28,6 @@
 - Contoh : pengumpulan sampel, dan penggunaan kuesioner.
 
 ### IMPLEMENTASI PADA PENELITIAN
+1. Metodologi
+
+2. Metode
