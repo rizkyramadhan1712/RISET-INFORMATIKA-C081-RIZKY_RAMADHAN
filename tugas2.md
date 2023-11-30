@@ -41,7 +41,7 @@ Pada umumnya, sistem prediksi gempa berbasis deep learning menggunakan data time
 -  Metode Deep Learning
    Secara umum, metode deep learning memiliki potensi yang besar untuk meningkatkan akurasi dan kehandalan sistem prediksi gempa. Hal ini dikarenakan Metode deep learning dapat mempelajari pola kompleks dalam data yang tidak dapat dipelajari oleh metode-metode tradisional. Pola-pola kompleks tersebut dapat berupa pola temporal pada data seismik, pola spasial pada data geomagnetik, atau pola gabungan dari kedua pola tersebut. Selain itu, metode deep learning dapat menangani data yang tidak terstruktur, seperti data seismik yang memiliki format yang beragam. Metode deep learning telah terbukti dapat meningkatkan akurasi prediksi gempa dibandingkan dengan metode-metode tradisional. 
 
-Metode deep learning yang sering digunakan untuk sistem prediksi gempa antara lain:
+  Metode deep learning yang sering digunakan untuk sistem prediksi gempa antara lain:
 
 - Recurrent neural network (RNN): RNN adalah jenis jaringan saraf tiruan yang mampu memproses data time series. RNN sering digunakan untuk prediksi gempa karena mampu menangkap pola temporal pada data seismik.
 - Convolutional neural network (CNN): CNN adalah jenis jaringan saraf tiruan yang mampu memproses data gambar. CNN sering digunakan untuk prediksi gempa karena mampu mengekstrak fitur-fitur penting dari data seismik.
