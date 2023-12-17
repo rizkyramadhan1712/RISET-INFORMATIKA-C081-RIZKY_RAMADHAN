@@ -1,5 +1,5 @@
 Nama : Rizky Ramadhan <br>
-NPM : <br>
+NPM : 20081010043
 Kelas : Riset Informatika C <br><hr>
 
 # Format APA <center>
